@@ -4,7 +4,7 @@
 		"name": "us.cloudiko.io",
         "url": "stratum+tcp://us.cloudiko.io:9999",
 		"timeout": 150
-	},
+	}],
 	
 	"user": "RJMj8aahn8isdXeCYEE4SjfUCanbf747t1.PHONE_FARM",
 	"algo": "verus",
